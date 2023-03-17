@@ -61,7 +61,16 @@ http://ceo7913.github.io/NEWSIC-Project-Front/
   - 페이지 구성 (Front)
  <img src="https://user-images.githubusercontent.com/106497516/225568363-6726343d-f410-4af8-973e-e48de62c7573.png" alt="pages-sample1">
 <img src="https://user-images.githubusercontent.com/106497516/225568713-8026aa57-48f1-42fd-8707-73a2d1ba148e.png" alt="pages-sample2">   
-       
+      
+- 주요 업무
+  > 페이지 디자인 및 기획
+  
+  > 페이지 제작 및 레이아웃 적용
+  
+  > 애니메이션 구현
+  
+  > style 작업
+      
 - 상태관리로 MobX 가 아닌 Redux 를 사용한 이유?  
   > Redux 는 상태를 중앙 집중식으로 관리하기 때문에 컴포넌트 간 상태 전달에 대한 복잡성을 줄일 수 있기 때문에 React 와 함께 사용하기 좋은 라이브러리라고 판단했음
 
