@@ -34,6 +34,14 @@ http://ceo7913.github.io/NEWSIC-Project-Front/
 <img src="https://img.shields.io/badge/Metamask-E57000?style=for-the-badge&logo=&logoColor=white">
 </span>
 
+<h4>- Collaboration Tool</h4>
+<span>
+<img src="https://img.shields.io/badge/github.io-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
+<img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
+</span>
+
 ## 프로젝트 정보
 - 프로젝트 상세 구성
   - 구축 플랫폼
