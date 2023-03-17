@@ -1,5 +1,5 @@
 # 프로젝트명 
-NEWSIC(음원NFT 펀딩 플렛폼) / 기업협약프로젝트 
+NEWSIC(음원NFT 펀딩 플렛폼) / 기업협약프로젝트
  
 ## 배포 링크
 http://ceo7913.github.io/NEWSIC-Project-Front/
