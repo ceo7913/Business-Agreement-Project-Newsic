@@ -82,3 +82,106 @@ http://ceo7913.github.io/NEWSIC-Project-Front/
 
 - Next.js 를 사용한 이유? 
   > 굳이 React 가 있는데 Next.js 를 추가로 사용한 이유는 Server-Side Rendering(SSR)을 가능하게 하기 때문인데 페이지를 렌더링하는 시간을 단축시키고 웹사이트의 구조나 콘텐츠를 최적화 하기 위해서 이다.
+  
+  ## Front src 폴더 구조 
+  
+```
+ 📦src
+ ┣ 📂components
+ ┃ ┣ 📂events
+ ┃ ┃ ┣ 📜Congratulations.jsx
+ ┃ ┃ ┣ 📜FailLog.jsx
+ ┃ ┃ ┣ 📜Loading.jsx
+ ┃ ┃ ┣ 📜MypageBackDrop.jsx
+ ┃ ┃ ┣ 📜SignUpBackDrop.jsx
+ ┃ ┃ ┗ 📜SuccessLog.jsx
+ ┃ ┣ 📂main
+ ┃ ┃ ┣ 📜MainFirstPage.jsx
+ ┃ ┃ ┣ 📜MainSecondPage.jsx
+ ┃ ┃ ┗ 📜MainThirdPage.jsx
+ ┃ ┣ 📂music
+ ┃ ┃ ┣ 📜Classic100.jsx
+ ┃ ┃ ┣ 📜FundMusicTop100.jsx
+ ┃ ┃ ┣ 📜MusicPlayer.jsx
+ ┃ ┃ ┣ 📜MusicPlayerListBar.jsx
+ ┃ ┃ ┣ 📜MusicPlayerPlayBar.jsx
+ ┃ ┃ ┣ 📜MusicSlideForm.jsx
+ ┃ ┃ ┣ 📜NewSong.jsx
+ ┃ ┃ ┣ 📜NormalMusicTop100.jsx
+ ┃ ┃ ┣ 📜Pop100.jsx
+ ┃ ┃ ┣ 📜Song100.jsx
+ ┃ ┃ ┗ 📜Trot100.jsx
+ ┃ ┣ 📂mypage
+ ┃ ┃ ┣ 📜applyCreator.jsx
+ ┃ ┃ ┣ 📜favorite.jsx
+ ┃ ┃ ┣ 📜Graph.jsx
+ ┃ ┃ ┣ 📜MyPageCreator.jsx
+ ┃ ┃ ┣ 📜my_NFT.jsx
+ ┃ ┃ ┗ 📜registerNftSong.jsx
+ ┃ ┣ 📂reward
+ ┃ ┃ ┣ 📜board.jsx
+ ┃ ┃ ┣ 📜commingsoon.jsx
+ ┃ ┃ ┣ 📜end.jsx
+ ┃ ┃ ┣ 📜In_production.jsx
+ ┃ ┃ ┗ 📜ongoing.jsx
+ ┃ ┣ 📜ChangeMember.jsx
+ ┃ ┣ 📜ConnectWallet.jsx
+ ┃ ┣ 📜FundingDetailModal.jsx
+ ┃ ┣ 📜index.jsx
+ ┃ ┣ 📜Layout.jsx
+ ┃ ┣ 📜PageNationFrame.jsx
+ ┃ ┣ 📜PlayBar.jsx
+ ┃ ┣ 📜SearchBar.jsx
+ ┃ ┣ 📜SideBar.jsx
+ ┃ ┣ 📜UserBar.jsx
+ ┃ ┗ 📜VolumeBox.jsx
+ ┣ 📂hooks
+ ┃ ┣ 📜useHover.jsx
+ ┃ ┗ 📜useWeb3.jsx
+ ┣ 📂middleware
+ ┃ ┣ 📜fetchFund.jsx
+ ┃ ┣ 📜fetchMusic.jsx
+ ┃ ┣ 📜fetchMyPage.jsx
+ ┃ ┣ 📜fetchNft.jsx
+ ┃ ┗ 📜fetchUser.jsx
+ ┣ 📂pages
+ ┃ ┣ 📂music
+ ┃ ┃ ┣ 📂detail
+ ┃ ┃ ┃ ┗ 📜[songId].jsx
+ ┃ ┃ ┗ 📜index.jsx
+ ┃ ┣ 📂mypage
+ ┃ ┃ ┣ 📂creator
+ ┃ ┃ ┃ ┗ 📜createfund.jsx
+ ┃ ┃ ┗ 📜index.jsx
+ ┃ ┣ 📂NFTmarket
+ ┃ ┃ ┣ 📂detail
+ ┃ ┃ ┃ ┗ 📜[NFTId].jsx
+ ┃ ┃ ┗ 📜index.jsx
+ ┃ ┣ 📂reward
+ ┃ ┃ ┣ 📂detail
+ ┃ ┃ ┃ ┗ 📜[rwdId].jsx
+ ┃ ┃ ┗ 📜index.jsx
+ ┃ ┣ 📂subscription
+ ┃ ┃ ┗ 📜index.jsx
+ ┃ ┣ 📜404.jsx
+ ┃ ┣ 📜index.jsx
+ ┃ ┣ 📜newsic_is.jsx
+ ┃ ┣ 📜search_results.jsx
+ ┃ ┣ 📜sign_up.jsx
+ ┃ ┣ 📜_app.jsx
+ ┃ ┗ 📜_document.jsx
+ ┣ 📂redux
+ ┃ ┣ 📜musicSlice.jsx
+ ┃ ┣ 📜myPageSlice.jsx
+ ┃ ┣ 📜nftFundFindSlice.jsx
+ ┃ ┣ 📜nftFundSlice.jsx
+ ┃ ┣ 📜nftMarketSlice.jsx
+ ┃ ┣ 📜nftMusicSlice.jsx
+ ┃ ┣ 📜normalMusicSlice.jsx
+ ┃ ┣ 📜store.jsx
+ ┃ ┗ 📜userSlice.jsx
+ ┣ 📂styles
+ ┃ ┣ 📜globals.min.css
+ ┃ ┗ 📜globals.scss
+ ┗ 📜web3.config.js
+```
