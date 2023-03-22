@@ -83,7 +83,7 @@ http://ceo7913.github.io/NEWSIC-Project-Front/
 - Next.js 를 사용한 이유? 
   > 굳이 React 가 있는데 Next.js 를 추가로 사용한 이유는 Server-Side Rendering(SSR)을 가능하게 하기 때문인데 페이지를 렌더링하는 시간을 단축시키고 웹사이트의 구조나 콘텐츠를 최적화 하기 위해서 이다.
   
-## Front src 파일 tree 
+## Front src 파일 구조 
   
 ```
  📦src
