@@ -86,14 +86,14 @@ http://ceo7913.github.io/NEWSIC_Front-Project/
 ## 샘플 GIF (2배속)
 
 <div align="center">
-<img src="https://im3.ezgif.com/tmp/ezgif-3-342a2f2bf5.gif" alt="2-1" width="333px">
-<img src="https://im3.ezgif.com/tmp/ezgif-3-137c24004c.gif" alt="2-2" width="333px">
-<img src="https://im3.ezgif.com/tmp/ezgif-3-77406cf00c.gif" alt="2-3" width="333px">
-<img src="https://im3.ezgif.com/tmp/ezgif-3-eb22288c6b.gif" alt="2-4" width="333px">  
-<img src="https://im3.ezgif.com/tmp/ezgif-3-a73452b85b.gif" alt="2-5" width="333px">
-<img src="https://im3.ezgif.com/tmp/ezgif-3-3dd6b81e66.gif" alt="2-6" width="333px">  
-<img src="https://im3.ezgif.com/tmp/ezgif-3-9d4a7be240.gif" alt="2-7" width="333px">  
-<img src="https://im3.ezgif.com/tmp/ezgif-3-e60f3edfb4.gif" alt="2-8" width="333px">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-342a2f2bf5.gif" alt="2-1" width="350px">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-137c24004c.gif" alt="2-2" width="350px">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-77406cf00c.gif" alt="2-3" width="350px">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-eb22288c6b.gif" alt="2-4" width="350px">  
+<img src="https://im3.ezgif.com/tmp/ezgif-3-a73452b85b.gif" alt="2-5" width="350px">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-3dd6b81e66.gif" alt="2-6" width="350px">  
+<img src="https://im3.ezgif.com/tmp/ezgif-3-9d4a7be240.gif" alt="2-7" width="350px">  
+<img src="https://im3.ezgif.com/tmp/ezgif-3-e60f3edfb4.gif" alt="2-8" width="350px">
 </div>
 
 
