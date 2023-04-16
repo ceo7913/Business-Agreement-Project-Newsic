@@ -24,6 +24,29 @@ http://ceo7913.github.io/NEWSIC-Project-Front/
 
 - 디자인툴을 사용한 프론트엔드 작업속도 개선
 
+## 프로젝트 정보
+- 프로젝트 상세 구성
+  - 구축 플랫폼
+    > 음원 NFT를 지분화 하여 펀딩 가능
+    
+    > 펀딩완료 후 호가 형태의 거래 가능
+    
+    > 구독권 구매 및 음악 스트리밍 이용 가능
+    
+  - 기능 부분
+    > 회원관리 및 마이페이지
+    
+    > 일반 음원 감상 및 펀딩 음원 거래
+    
+    > NFT 보유자에게 음원 재생 횟수에 따른 수익 분배
+    
+## 이슈 및 배운점
+> [style 에 backdrop-filter : blur() 를 추가 할시 동적인 페이지에서 해당 효과가 적용된 객체가 잘려 나가는 이슈] (https://github.com/ceo7913/Business_Agreement_Newsic-Project/issues/1)
+
+> [y 로 drag 되는 slider 가 조금 클릭하는 수준에도 drag 되는 이슈] (https://github.com/ceo7913/Business_Agreement_Newsic-Project/issues/2)
+
+> [반 원을 그리는 슬라이드의 위치가 일정하지 않는 이슈] (https://github.com/ceo7913/Business_Agreement_Newsic-Project/issues/3)
+
 ## 사용한 스택
 <h4>- FRONT</h4>
 <span>
@@ -58,29 +81,6 @@ http://ceo7913.github.io/NEWSIC-Project-Front/
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </span>
-
-## 프로젝트 정보
-- 프로젝트 상세 구성
-  - 구축 플랫폼
-    > 음원 NFT를 지분화 하여 펀딩 가능
-    
-    > 펀딩완료 후 호가 형태의 거래 가능
-    
-    > 구독권 구매 및 음악 스트리밍 이용 가능
-    
-  - 기능 부분
-    > 회원관리 및 마이페이지
-    
-    > 일반 음원 감상 및 펀딩 음원 거래
-    
-    > NFT 보유자에게 음원 재생 횟수에 따른 수익 분배
-    
-## 이슈 및 배운점
-> [style 에 backdrop-filter : blur() 를 추가 할시 동적인 페이지에서 해당 효과가 적용된 객체가 잘려 나가는 이슈] (https://github.com/ceo7913/Business_Agreement_Newsic-Project/issues/1)
-
-> [y 로 drag 되는 slider 가 조금 클릭하는 수준에도 drag 되는 이슈] (https://github.com/ceo7913/Business_Agreement_Newsic-Project/issues/2)
-
-> [반 원을 그리는 슬라이드의 위치가 일정하지 않는 이슈] (https://github.com/ceo7913/Business_Agreement_Newsic-Project/issues/3)
     
 - 페이지 구성 (Front)
 <img src="https://user-images.githubusercontent.com/106497516/225568363-6726343d-f410-4af8-973e-e48de62c7573.png" alt="pages-sample1">
