@@ -2,7 +2,7 @@
 NEWSIC(음원NFT 펀딩 플렛폼) / 기업협약프로젝트 
  
 ## 배포 링크
-http://ceo7913.github.io/NEWSIC_Front-Project/
+https://ceo7913.github.io/NEWSIC_Front-Project/
 
 ## 프로젝트 멤버
 윤하영(BACK/CONTRACT), 이지니(FRONT), 임준우(FRONT), 김경환(BACK/CONTRACT)
