@@ -75,6 +75,13 @@ http://ceo7913.github.io/NEWSIC-Project-Front/
     
     > NFT 보유자에게 음원 재생 횟수에 따른 수익 분배
     
+## 이슈 및 배운점
+> [style 에 backdrop-filter : blur() 를 추가 할시 동적인 페이지에서 해당 효과가 적용된 객체가 잘려 나가는 이슈] (https://github.com/ceo7913/Business_Agreement_Newsic-Project/issues/1)
+
+> [y 로 drag 되는 slider 가 조금 클릭하는 수준에도 drag 되는 이슈] (https://github.com/ceo7913/Business_Agreement_Newsic-Project/issues/2)
+
+> [반 원을 그리는 슬라이드의 위치가 일정하지 않는 이슈] (https://github.com/ceo7913/Business_Agreement_Newsic-Project/issues/3)
+    
 - 페이지 구성 (Front)
 <img src="https://user-images.githubusercontent.com/106497516/225568363-6726343d-f410-4af8-973e-e48de62c7573.png" alt="pages-sample1">
 <img src="https://user-images.githubusercontent.com/106497516/225568713-8026aa57-48f1-42fd-8707-73a2d1ba148e.png" alt="pages-sample2">    
