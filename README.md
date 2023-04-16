@@ -86,14 +86,14 @@ http://ceo7913.github.io/NEWSIC_Front-Project/
 ## 샘플 GIF (2배속)
 
 <div align="center">
-<img src="https://im3.ezgif.com/tmp/ezgif-3-342a2f2bf5.gif" alt="2-1" width="400px">
-<img src="https://im3.ezgif.com/tmp/ezgif-3-137c24004c.gif" alt="2-2" width="400px">
-<img src="https://im3.ezgif.com/tmp/ezgif-3-77406cf00c.gif" alt="2-3" width="400px">
-<img src="https://im3.ezgif.com/tmp/ezgif-3-eb22288c6b.gif" alt="2-4" width="400px">  
-<img src="https://im3.ezgif.com/tmp/ezgif-3-a73452b85b.gif" alt="2-5" width="400px">
-<img src="https://im3.ezgif.com/tmp/ezgif-3-3dd6b81e66.gif" alt="2-6" width="400px">  
-<img src="https://im3.ezgif.com/tmp/ezgif-3-9d4a7be240.gif" alt="2-7" width="400px">  
-<img src="https://im3.ezgif.com/tmp/ezgif-3-e60f3edfb4.gif" alt="2-8" width="400px">
+<img src="https://user-images.githubusercontent.com/106497516/232309972-b7fe7eae-3a1a-4f55-b7c0-97f381765a59.gif" alt="2-1" width="400px">
+<img src="https://user-images.githubusercontent.com/106497516/232309989-b1774032-b48c-4b6a-a37e-d07d1c93fffd.gif" alt="2-2" width="400px">
+<img src="https://user-images.githubusercontent.com/106497516/232309986-0c104ccf-b1bc-42b7-a316-8ca520011033.gif" alt="2-3" width="400px">
+<img src="https://user-images.githubusercontent.com/106497516/232309985-5353002f-dd61-4e57-b1da-740ec35168f8.gif" alt="2-4" width="400px">  
+<img src="https://user-images.githubusercontent.com/106497516/232309984-f8477891-9d7b-49cd-a852-f1085cced4cf.gif" alt="2-5" width="400px">
+<img src="https://user-images.githubusercontent.com/106497516/232309981-c80d5033-c038-4a6f-b865-a8e89c67ba61.gif" alt="2-6" width="400px">  
+<img src="https://user-images.githubusercontent.com/106497516/232309979-3b029445-11d1-4fd1-ba1f-ac1c9fbe9514.gif" alt="2-7" width="400px">  
+<img src="https://user-images.githubusercontent.com/106497516/232309977-1ea08f45-7c5f-45da-933a-ec89ef550c18.gif" alt="2-8" width="400px">
 </div>
 
 
