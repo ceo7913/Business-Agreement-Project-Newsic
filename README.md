@@ -81,12 +81,22 @@ http://ceo7913.github.io/NEWSIC-Project-Front/
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </span>
-    
-- 페이지 구성 (Front)
-<img src="https://user-images.githubusercontent.com/106497516/232297626-856c4008-b536-4cb2-9ae2-41450915b818.gif" alt="2-1">
-<img src="https://user-images.githubusercontent.com/106497516/225568363-6726343d-f410-4af8-973e-e48de62c7573.png" alt="pages-sample1">
-<img src="https://user-images.githubusercontent.com/106497516/225568713-8026aa57-48f1-42fd-8707-73a2d1ba148e.png" alt="pages-sample2">    
-      
+
+
+## 샘플 GIF (2배속)
+
+<div align="center">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-342a2f2bf5.gif" alt="2-1" width="333px">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-137c24004c.gif" alt="2-2" width="333px">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-77406cf00c.gif" alt="2-3" width="333px">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-eb22288c6b.gif" alt="2-4" width="333px">  
+<img src="https://im3.ezgif.com/tmp/ezgif-3-a73452b85b.gif" alt="2-5" width="333px">
+<img src="https://im3.ezgif.com/tmp/ezgif-3-3dd6b81e66.gif" alt="2-6" width="333px">  
+<img src="https://im3.ezgif.com/tmp/ezgif-3-9d4a7be240.gif" alt="2-7" width="333px">  
+<img src="https://im3.ezgif.com/tmp/ezgif-3-e60f3edfb4.gif" alt="2-8" width="333px">
+</div>
+
+
 - 주요 업무
   > 페이지 디자인 및 기획
   
