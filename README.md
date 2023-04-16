@@ -83,6 +83,7 @@ http://ceo7913.github.io/NEWSIC-Project-Front/
 </span>
     
 - 페이지 구성 (Front)
+<img src="https://user-images.githubusercontent.com/106497516/232297626-856c4008-b536-4cb2-9ae2-41450915b818.gif" alt="2-1">
 <img src="https://user-images.githubusercontent.com/106497516/225568363-6726343d-f410-4af8-973e-e48de62c7573.png" alt="pages-sample1">
 <img src="https://user-images.githubusercontent.com/106497516/225568713-8026aa57-48f1-42fd-8707-73a2d1ba148e.png" alt="pages-sample2">    
       
