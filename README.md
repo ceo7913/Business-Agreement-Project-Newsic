@@ -75,8 +75,8 @@ http://ceo7913.github.io/NEWSIC-Project-Front/
     
     > NFT 보유자에게 음원 재생 횟수에 따른 수익 분배
     
-  - 페이지 구성 (Front)
- <img src="https://user-images.githubusercontent.com/106497516/225568363-6726343d-f410-4af8-973e-e48de62c7573.png" alt="pages-sample1">
+- 페이지 구성 (Front)
+<img src="https://im4.ezgif.com/tmp/ezgif-4-682dfec770.gif" alt="pages-sample1">
 <img src="https://user-images.githubusercontent.com/106497516/225568713-8026aa57-48f1-42fd-8707-73a2d1ba148e.png" alt="pages-sample2">   
       
 - 주요 업무
